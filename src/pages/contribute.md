@@ -68,6 +68,8 @@ GitHub 编辑界面会根据你在存储库上的权限做出响应。前面的�
 
 :::
 
+同时，我们建议您在本地运行 `npm start` 以检查 Docusaurus 是否能够正常运行。
+
 ------
 
-感谢您的贡献！若有其余未尽事宜，您可提交 [Issue](https://github.com/LiCaoZ/MSPCMgrDocs) 来向社区询问。
+感谢您的贡献！若有其余未尽事宜，您可提交 [Issue](https://github.com/LiCaoZ/MSPCMgrDocs/issues) 来向社区询问。

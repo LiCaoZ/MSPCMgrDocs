@@ -11,7 +11,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://pcmanager.microsoft.com/assets/logo2.png',
+  favicon: '/img/logo.png',
   i18n: {
     defaultLocale: 'zh-CN',
     locales: ['zh-CN', 'en', 'zh-TW'],
@@ -43,11 +43,12 @@ const config = {
         title: '微软电脑管家文档库',
         logo: {
           alt: '微软电脑管家图标',
-          src: 'https://pcmanager.microsoft.com/assets/logo2.png',
+          src: '/img/logo.png',
         },
         items: [
           { to: '/category/faq', label: '常见问题', position: 'left' },
           { to: '/communities', label: '社群', position: 'left' },
+          { to: '/contribute', label: '贡献', position: 'left' },
           {
             type: 'localeDropdown',
             position: 'right',

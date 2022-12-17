@@ -35,6 +35,6 @@ sidebar_position: 1
 
 | 微信公众号 | 新浪微博 | 社群 |
 | ---------- | --------- | ---- |
-| ![微信公众号二维码](https://pcmanager.microsoft.com/assets/th.png) | [![微博二维码](https://pcmanager.microsoft.com/assets/wb.png)](https://weibo.com/7763750711) | [官方社群列表](/communities) |
+| ![微信公众号二维码](/img/wechat.png) | [![微博二维码](/img/wb.png)](https://weibo.com/7763750711) | [官方社群列表](/communities) |
 
 [^1]: 目前，应用内查杀需要用户设备中 Windows Defender 组件存在并开启。
