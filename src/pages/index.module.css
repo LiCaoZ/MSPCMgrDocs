@@ -16,6 +16,12 @@
   }
 }
 
+.heroBanner h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
 .buttons {
   display: flex;
   align-items: center;
